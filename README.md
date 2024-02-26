@@ -13,7 +13,7 @@
 
 ## Github Repository:
 
-- Create your own repository and submit the link to your repository.
+- Create your own frontend & backend repository and submit the link of your repositories.
 - Server Starter Pack: https://github.com/Apollo-Level2-Web-Dev/L2B2-Frontend-Path-Assignment-6-Server-Starter-Pack
 
 ## Assignment Number based on the Last Digit of PH Student ID:
