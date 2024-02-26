@@ -21,11 +21,11 @@
 
 | The last Digit of PH Student ID | Assignment Number (Design No) |
 | --- | --- |
-| 0, 1 | 1 |
-| 2, 3 | 2 |
-| 4, 5 | 3 |
-| 6, 7 | 4 |
-| 8, 9 | 5 |
+| 0, 1 | [Assignment-07-Frontend-Path-1.md]("../L2B2-Frontend-Track-A6/Assignment-07-Frontend-Path-1.md") |
+| 2, 3 | 2[Assignment-07-Frontend-Path-2.md] |
+| 4, 5 | 3[Assignment-07-Frontend-Path-3.md] |
+| 6, 7 | 4[Assignment-07-Frontend-Path-4.md] |
+| 8, 9 | 5[Assignment-07-Frontend-Path-5.md] |
 
 ### **Deadline:**
 
