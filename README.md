@@ -15,6 +15,7 @@
 
 - For Client(Frontend): https://classroom.github.com/a/ugYcKW_q
 - For Server(Backed): https://classroom.github.com/a/EfrfvbCd
+- Server Starter Pack: https://github.com/Apollo-Level2-Web-Dev/L2B2-Frontend-Path-Assignment-6-Server-Starter-Pack
 
 ## Assignment Number based on the Last Digit of PH Student ID:
 
