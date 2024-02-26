@@ -7,25 +7,24 @@
 
 ## What you need to submit:
 
-- Provide the Private GitHub repository (in GitHub Classroom) links of the front-end and back-end and ensure there is a README file with explicit instructions for running the application locally.
+- Provide Your Own GitHub repository (in GitHub Classroom) links of the front-end and back-end and ensure there is a README file with explicit instructions for running the application locally.
 - Live deployment link
 - Submit a demo video showcasing the functionality of your project.
 
-## Github Private Repo (Github ClassRoom):
+## Github Repository:
 
-- For Client(Frontend): https://classroom.github.com/a/ugYcKW_q
-- For Server(Backed): https://classroom.github.com/a/EfrfvbCd
+- Create your own repository and submit the link to your repository.
 - Server Starter Pack: https://github.com/Apollo-Level2-Web-Dev/L2B2-Frontend-Path-Assignment-6-Server-Starter-Pack
 
 ## Assignment Number based on the Last Digit of PH Student ID:
 
-| The last Digit of PH Student ID | Assignment Number (Design No) |
-| --- | --- |
-| 0, 1 | [Path-1](Assignment-07-Frontend-Path-1.md) |
-| 2, 3 | [Path-2](Assignment-07-Frontend-Path-2.md) |
-| 4, 5 | [Path-3](Assignment-07-Frontend-Path-3.md) |
-| 6, 7 | [Path-4](Assignment-07-Frontend-Path-4.md) |
-| 8, 9 | [Path-5](Assignment-07-Frontend-Path-5.md) |
+| The last Digit of PH Student ID | Assignment Number (Design No)              |
+| ------------------------------- | ------------------------------------------ |
+| 0, 1                            | [Path-1](Assignment-07-Frontend-Path-1.md) |
+| 2, 3                            | [Path-2](Assignment-07-Frontend-Path-2.md) |
+| 4, 5                            | [Path-3](Assignment-07-Frontend-Path-3.md) |
+| 6, 7                            | [Path-4](Assignment-07-Frontend-Path-4.md) |
+| 8, 9                            | [Path-5](Assignment-07-Frontend-Path-5.md) |
 
 ### **Deadline:**
 
