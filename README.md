@@ -7,7 +7,7 @@
 
 ## What you need to submit:
 
-- Provide Your Own GitHub repository (in GitHub Classroom) links of the front-end and back-end and ensure there is a README file with explicit instructions for running the application locally.
+- Provide Your Own GitHub repository links of the front-end and back-end, and ensure there is a README file with explicit instructions for running the application locally.
 - Live deployment link
 - Submit a demo video showcasing the functionality of your project.
 
